@@ -1,0 +1,14 @@
+Project Requirements
+
+A QR for the website to print on a business card.
+The website with a message.
+dynamically adjust to screen size.
+3 Login's
+Joels login "JOEL CAN EDIT THE MESSAGE ON THE MAIN PAGE"
+LINKS" LINKS SECTION "
+PUBLIC CONTINUE GUEST LOGIN
+COMMENTS="THEIR STORY"
+ADMIN "Preacher/administrator to screen stories"
+
+
+ADMIN : password : Godisgood
